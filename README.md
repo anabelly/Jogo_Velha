@@ -1,2 +1,7 @@
-# Jogo_Velha
-Jogo criado em Java.
+# Jogo da Velha
+
+Jogo criado em Java, utilizando o Netbeans.
+
+## Contribuidores
+
+[Luana](https://github.com/anabelly)
